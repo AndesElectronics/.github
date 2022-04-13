@@ -1,2 +1,0 @@
-name: Github issues on Notion
-  uses: rudderlabs/github-notion@0.0.6-beta
